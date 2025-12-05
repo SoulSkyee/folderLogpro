@@ -1,7 +1,6 @@
 # Folder Pembelajaran LogPro - Python
 
-## List Folder :
+**List Folder :**
 - basic logic
--   percabangan
--   perulangan
--   
+  - percabangan
+  - perulangan   
